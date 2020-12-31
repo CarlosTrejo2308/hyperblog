@@ -10,5 +10,7 @@ Un blog increíble para el curso de Git y Github de [Platzi](https://wwww.platzi
 * Trucos muy locos del profeso
 * Las personalidades multiples de Freddy
 * Creado por el increible platzi team
+* Incluye ejemplos en todas las plataformas
+* Disponible para todas las edades
 
 Amable recordatorio: **Este readm.me es un chiste**, diseñado como un ejemplo.
