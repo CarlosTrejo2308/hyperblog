@@ -9,5 +9,6 @@ Un blog increíble para el curso de Git y Github de [Platzi](https://wwww.platzi
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profeso
 * Las personalidades multiples de Freddy
+* Creado por el increible platzi team
 
 Amable recordatorio: **Este readm.me es un chiste**, diseñado como un ejemplo.
